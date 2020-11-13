@@ -1,0 +1,11 @@
+<div class="card-body"><br>
+    <form #name="ngForm" class="">
+        <div class="form-group ">
+            <input type="text" class="form-control" placeholder="github user" required [(ngModel)]="searchTerm" name="searchTerm">
+        </div>
+        <div class="form-group">
+            <input type="submit" class="btn btn-default" value="searh user" (click)="searchUser()">
+        </div>
+    </form>
+  
+</div>
