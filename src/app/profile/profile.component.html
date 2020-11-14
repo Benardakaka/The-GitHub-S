@@ -7,7 +7,7 @@
         <div class="avatar pt-3" style="z-index: 4">
           <img
             src="{{ userProfile.avatar_url }}"
-            class="width-full border bg-white"
+            class="width-full border bg-white" style="border-radius: 23em;"
             alt="woman avatar"
             style="height: auto"
             alt
@@ -49,6 +49,7 @@
             <strong>{{ repo.name }}</strong>
           </h4>
           <p class="">{{ repo.description }}</p>
+          <p>{{repo.created_at}}</p>
           <span class="row ml-5 h4"
              >Language:
             <p class="pl-3 red-text">{{ repo.language }}</p></span
