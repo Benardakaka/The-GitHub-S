@@ -14,6 +14,7 @@ import { OnHoverDirective } from './on-hover.directive';
 import { DateDirective } from './date.directive';
 import { FooterComponent } from './footer/footer.component';
 import { from } from 'rxjs';
+import { DateAgoPipe } from './pipes/date-ago.pipe';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { from } from 'rxjs';
     ProfileComponent,
     OnHoverDirective,
     DateDirective,
-    FooterComponent
+    FooterComponent,
+    DateAgoPipe
   ],
   imports: [
     BrowserModule,
