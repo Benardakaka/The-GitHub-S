@@ -1,11 +1,11 @@
-# GITHUB-SEARCH
+# GitHub-Search
 #### This project interlinks clients to software developers, Friday November 14th 2020
 ## Author
-[Philipia Eveline](https://github.com/philipiaeveline/GITHUB-SEARCH)
+[Benard Akaka](https://github.com/Benardakaka/The-GitHub-Search)
 ## Description
-GitHub is a web-based version-control and collaboration platform for software developers. GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers.
+This is a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories
 ## Live Page
-https://github.com/philipiaeveline/GITHUB-SEARCH
+https://github.com/Benardakaka/The-GitHub-Search
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -21,7 +21,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
-* git clone ```https://github.com/philipiaeveline/GITHUB-SEARCH```
+* git clone ```https://github.com/Benardakaka/The-GitHub-Search```
 * cd Github-Search
 * code . or atom . based on the text editor you have.
 ## Technologies Used
